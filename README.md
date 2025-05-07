@@ -1,5 +1,9 @@
 # Timer Application
 
+## Aperçu
+![Aperçu de l'application de minuteur](./screenshot.png)
+
+
 ## Description
 The Timer application is a simple web-based countdown timer that allows users to set a duration in days, hours, minutes, and seconds. Users can start, pause, and reset the timer using the provided buttons.
 
